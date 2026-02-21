@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Admin Dashboard",
+  "Type": "Screen",
+  "Id": "-ORFW_qZ7UOoiv1I9dcGAA",
+  "Reference": "TQRFhmlvdE6Gb5iHJiJEOQ/-ORFW_qZ7UOoiv1I9dcGAA",
+  "ParentRef": "TQRFhmlvdE6Gb5iHJiJEOQ/pDNgiF0IzE2qY7dj2T-6NQ",
+  "Created": "2025-12-11T14:59:43.6587365Z",
+  "Updated": "2025-12-11T14:59:43.6587365Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.21.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

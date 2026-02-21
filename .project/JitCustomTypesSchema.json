@@ -1,0 +1,43 @@
+{
+  "exportedBy": null,
+  "bundleHash": null,
+  "version": "1.0.0.0",
+  "jitAssemblyCompilerCommands": [
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 1,
+        "idRef": "NExtractDataGeneric`1_1",
+        "hash": "NExtractDataGeneric`1_1|DataTable|X1oZpKBsa4pGtp9oHF9cZYgxzw2wM6G5Qtln81YDWM",
+        "dataType": "System.Data.DataTable, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Name",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Roll No",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Email",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Score",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Date",
+            "dataType": "System.String, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataTable1",
+        "hash": "NExtractDataGeneric`1_1|DataTable|EJIha1yFE5ERtnV3WFJChQcRxSkM1Q4C7NcL4bHsI",
+        "assemblyName": "Studio.Generated.TypedDataTable1"
+      }
+    }
+  ]
+}
